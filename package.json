@@ -19,7 +19,9 @@
   },
   "homepage": "https://github.com/isakhalin/Q3_Node.js#readme",
   "dependencies": {
-    "fs": "^0.0.1-security",
     "nodemon": "^2.0.19"
+  },
+  "devDependencies": {
+    "eslint": "^8.21.0"
   }
 }
